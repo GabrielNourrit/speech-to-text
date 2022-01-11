@@ -1,0 +1,13 @@
+
+.text{
+	text-align: center;
+}
+
+.command{
+	display: flex;
+	justify-content: center;
+}
+
+.btn-primary{
+	margin-right: 15px
+}
